@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW1\Hakan.ConsoleApp.Homework1\bin\Debug\Hakan.ConsoleApp.Homework1.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW1\Hakan.ConsoleApp.Homework1\bin\Debug\Hakan.ConsoleApp.Homework1.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW1\Hakan.ConsoleApp.Homework1\bin\Debug\Hakan.ConsoleApp.Homework1.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW1\Hakan.ConsoleApp.Homework1\obj\Debug\Hakan.ConsoleApp.Homework1.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW1\Hakan.ConsoleApp.Homework1\obj\Debug\Hakan.ConsoleApp.Homework1.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW1\Hakan.ConsoleApp.Homework1\obj\Debug\Hakan.ConsoleApp.Homework1.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW1\Hakan.ConsoleApp.Homework1\obj\Debug\Hakan.ConsoleApp.Homework1.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW1\Hakan.ConsoleApp.Homework1\obj\Debug\Hakan.ConsoleApp.Homework1.pdb
